@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+#row{
+    font-size: 5em;
+    border-radius: 10px;
+    cursor: pointer;
+    text-decoration-color: blue;
+    color: aqua;
+    border-color: black;
+    background-color: blueviolet;
+}
+
+.label{
+    font-size: 5em;
+}
