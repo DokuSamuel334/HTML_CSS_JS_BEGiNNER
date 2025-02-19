@@ -1,0 +1,16 @@
+#mylable{
+    font-size: 10em;
+}
+
+.button{
+    font-size: 2em;
+    font-style: oblique;
+    color: white;
+    background-color: blueviolet;
+    cursor: pointer;
+    border-radius: 10px;
+ }
+
+.button:hover{
+    background-color: aqua;
+}
